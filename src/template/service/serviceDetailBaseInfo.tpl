@@ -1,0 +1,15 @@
+<caption>服务基本信息</caption>
+<thead>
+	<tr>
+		<th>所属分组</th>
+		<th>当前版本</th>
+		<th>应用包</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td><%=groupName%></td>
+		<td><%=appVersion%></td>
+		<td><%=appName%></td>
+	</tr>
+</tbody>

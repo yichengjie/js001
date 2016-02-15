@@ -1,0 +1,11 @@
+<thead>
+	<tr>
+		<th>角色ID</th>
+		<th>角色名称</th>
+		<th>描述</th>
+		<th>详细信息</th>
+		<th>操作</th>
+	</tr>
+</thead>
+<tbody>	
+</tbody>

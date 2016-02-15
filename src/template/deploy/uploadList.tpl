@@ -1,0 +1,9 @@
+<thead>
+	<tr>
+		<th></th>
+		<th>名称</th>
+		<th>类型</th>
+	</tr>
+</thead>
+<tbody>	
+</tbody>

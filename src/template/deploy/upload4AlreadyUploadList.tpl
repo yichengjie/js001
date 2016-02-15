@@ -1,0 +1,15 @@
+<caption>已上传应用版本:</caption>
+<thead>
+	<tr>
+		<th>应用名称</th>
+		<th>组名称</th>
+		<th>版本</th>
+		<th>上传用户</th>
+		<th>上传时间</th>
+		<th>部署状态</th>
+		<th>是否默认版</th>
+		<th>清除应用</th>
+	</tr>
+</thead>
+<tbody>	
+</tbody>

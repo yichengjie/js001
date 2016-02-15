@@ -1,0 +1,50 @@
+{
+  "family": "travsky",
+  "name": "jcf",
+  "version": "1.0.0",
+  "description": "jcf use spm package",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yicj",
+  "license": "ISC",
+  "spm": {
+    "output": ["app.js"],
+    "alias": {
+        "$": "$",
+	    "jquery": "jquery",
+	    "ajaxfileupload": "ajaxfileupload",
+	    "underscore": "underscore",
+	    "backbone": "backbone",
+	    "querystring": "querystring",
+	    "marionette": "marionette",
+	    "syphon": "syphon",
+	    "seajs-text": "seajs-text",
+	    "bs-modal": "bs-modal",
+	    "bs-alert": "bs-alert",
+	    "bs-popover": "bs-popover",
+	    "bs-tooltip": "bs-tooltip",
+	    "ztree-core" :"ztree-core",
+	    "ztree-excheck" :"ztree-excheck",
+		"highcharts" : "highcharts",
+	    "exporting" : "exporting",
+	    "icheck" : "icheck",
+	    "my97Date" : "my97Date",
+		
+	    "confirmView" :"confirmView",
+		"listTipModel" : "listTipModel",
+	    "listTipView" :"listTipView",
+		"itemTipModel":"itemTipModel",
+		"itemTipView":"itemTipView",
+	    "confirmModel" :"confirmModel",
+	    "alertView" :"alertView",
+	    "alertModel" :"alertModel",
+		"globalModel":"globalModel",
+		"globalView":"globalView",
+	    "waitingView" :"waitingView",
+		"util":"util",
+		"errorPageView" : "errorPageView"
+    }
+  }
+}

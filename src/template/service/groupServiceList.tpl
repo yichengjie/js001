@@ -1,0 +1,18 @@
+<thead>
+  <tr>
+   	<th>应用名称</th>
+  	<th>服务名称</th>
+    <th>类型</th>
+    <th>版本</th>
+    <th>属性</th>
+    <th>默认版</th>
+    <th>状态</th>
+    <th>降级</th>
+    <th>灰度</th>
+    <th>组配置</th>
+     <th>详情</th>
+     <th>度量数据</th>
+  </tr>
+</thead>
+<tbody>
+</tbody>

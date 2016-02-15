@@ -1,0 +1,15 @@
+<thead>
+  <tr>
+    <th>应用名</th>
+    <th>版本号</th>
+    <th>部署状态</th>
+    <th>最后更新时间</th>
+    <th>详情</th>
+    <th>当前版本</th>
+    <th>切换版本</th>
+    <th>反部署操作</th>
+    <th>回滚操作</th>
+    <th>配置文件</th>
+  </tr>
+</thead>
+<tbody></tbody>

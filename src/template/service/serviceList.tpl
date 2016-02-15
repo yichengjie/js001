@@ -1,0 +1,9 @@
+<thead>
+  <tr>
+    <th>服务器名称</th>
+    <th>服务名称</th>
+    <th>服务类型</th>
+    <th>服务版本</th>
+  </tr>
+</thead>
+<tbody></tbody>
