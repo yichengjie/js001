@@ -29,8 +29,7 @@ seajs.config({
 	debug: true
 });
 //上线版本
-seajs.use("./static/js/dist/app")  ;
-//seajs.use("travsky/jcf/1.0.0/app")  ;
+seajs.use("travsky/jcf/1.0.0/app")  ;
 //开发版本
 //seajs.use("./static/js/src/app")  ;
 
